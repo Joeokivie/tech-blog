@@ -53,3 +53,17 @@ THEN I am able to view posts and comments but I am prompted to log in again befo
 
 # Mock-up
 ![image](https://github.com/Joeokivie/tech-blog/assets/138530272/e0e24c76-6f19-44aa-bf73-4292e65000b9)
+
+
+# Screenshot
+<img width="1480" alt="Screenshot 2024-01-11 at 12 07 14 AM" src="https://github.com/Joeokivie/tech-blog/assets/138530272/d3654dca-b293-4e43-bbd5-b58a1b2c9c4a">
+
+# Heroku Link
+[
+](https://serene-bayou-21063-12ded80fc169.herokuapp.com/)https://serene-bayou-21063-12ded80fc169.herokuapp.com
+
+# github repo
+https://github.com/Joeokivie/tech-blog
+
+# License
+MIT
