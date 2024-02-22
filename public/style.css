@@ -1,8 +1,9 @@
 :root {
-    --primary: #ff8c00;   /* Orange */
-    --secondary: #ffffff;  /* White */
-    --border-radius: 0.3rem;
-  }
+  --primary: #a99986;
+  --secondary: #433030;
+  --border-radius: 0.3rem;
+}
+  
   
   body {
     background-color: var(--secondary);
@@ -48,8 +49,8 @@
   }
   
   .app-title {
-    background-color: #ff6b00; /* Slightly darker orange */
-    color: var(--secondary);
+    background-color: #68503f;
+    color: #754646;
     box-shadow: 6px 5px var(--primary);
   }
   
